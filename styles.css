@@ -1,0 +1,43 @@
+/* write your styles here */
+body{
+    text-align: center;
+}
+table{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    align-content: center;
+    margin: 0px auto;
+}
+
+th{
+    color: white;
+    background-color: rgb(52, 155, 52);
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center;
+    padding: 8px 20px 8px 20px;
+}
+
+td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: center; 
+    padding: 20px 20px 20px 20px; 
+}
+
+tr:hover{
+    background-color: lightgrey;
+}
+
+#opt2{
+    margin-left: 217.5px;
+}
+
+#selectbx{
+    width: 125px;
+}
+
+#lblid{
+    margin-left: 20px;
+}
